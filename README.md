@@ -22,8 +22,10 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywonchae1&count_bg=%23519259&title_bg=%23F0BB62&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Web Log Badge](http://img.shields.io/badge/-Web%20Log-black?style=flat-square&logo=github&link=https://ywonchae1.github.io/)](https://ywonchae1.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywonchae1&count_bg=%23A9907E&title_bg=%23675D50&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Web Log Badge](http://img.shields.io/badge/WebLog-black?style=flat&logo=github&link=https://ywonchae1.github.io/)](https://ywonchae1.github.io/)
+[![Dadingcoding Badge](http://img.shields.io/badge/DadingCoding-ABC4AA?style=flat&link=https://instagram.com/dadingcoding/)](https://instagram.com/dadingcoding/)
+
 
 </div>
 

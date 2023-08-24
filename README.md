@@ -1,45 +1,16 @@
-## 안녕하세요! 원채의 깃허브입니다 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=C70107&height=300&section=header&text=Wonchae%20Yang&fontSize=60&stroke=FFFFFF&fontColor=0000&animation=blink&fontAlignY=40)
 
-### 👀 *Verry Nice to meet you guys!*
+# 안녕하세요 1채입니다.
+## Hello I am one-chae!
 
-🐘 I'm wonchae, from Republic of Korea!
+- 🇰🇷 🐘
+- ⚽ Football
+- 🚀 Barrier-Free
+- ⚙ System Software
+- 🛠 Operating System
+- 📦 Back-end Developer
+- 🍎 Apple
 
-### 🤍 What I love
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">&nbsp<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp<img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-🐘 Elephant
-
-🚀 Barrier-Free
-
-⚙ System Software
-
-🛠 Operating System
-
-🍎 Apple
-
-📦 Back-end Developer
-
-### 😋 Feel freeee to contact me!
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywonchae1&count_bg=%23A9907E&title_bg=%23675D50&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Web Log Badge](http://img.shields.io/badge/WebLog-black?style=flat&logo=github&link=https://ywonchae1.github.io/)](https://ywonchae1.github.io/)
-[![Dadingcoding Badge](http://img.shields.io/badge/DadingCoding-ABC4AA?style=flat&link=https://instagram.com/dadingcoding/)](https://instagram.com/dadingcoding/)
-[![SSLab Badge](http://img.shields.io/badge/SystemSoftwareLab-A9907E?style=flat&link=https://sites.google.com/sungshin.ac.kr/ssl/home/)](https://sites.google.com/sungshin.ac.kr/ssl/home/)
-
-</div>
-
-<!--
-**ywonchae1/ywonchae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywonchae1&show_icons=true&hide_border=true&icon_color=C8102E&title_color=C8102E)

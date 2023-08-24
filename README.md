@@ -1,8 +1,10 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C70107&height=300&section=header&text=Wonchae%20Yang&fontSize=60&stroke=FFFFFF&fontColor=0000&animation=blink&fontAlignY=40)
 
+<div align="center">
 # 안녕하세요 1채입니다.
 ## Hello I am one-chae!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23C40000&icon=smugmug.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 - 🇰🇷 🐘
 - ⚽ Football

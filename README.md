@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=C70107&height=300&section=header&text=Wonchae%20Yang&fontSize=60&stroke=FFFFFF&fontColor=0000&animation=blink&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C70107&height=300&section=header&text=Wonchae%20Yang&fontSize=60&stroke=FFFFFF&fontColor=0000&fontAlignY=40)
 
 # 안녕하세요 1채입니다.
 

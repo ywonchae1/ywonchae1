@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요 1채입니다.
+안녕하세요 1채입니다.
 Hello I am one-chae!
 
 <br>

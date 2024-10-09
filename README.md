@@ -1,4 +1,4 @@
-### [💝 Send a message to me!](https://cloudy.cloudy.n-e.kr/cloudy/1)
+### [💝 Send me a message!](https://cloudy.cloudy.n-e.kr/cloudy/1)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
